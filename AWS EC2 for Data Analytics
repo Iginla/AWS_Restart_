@@ -1,0 +1,11 @@
+Today, I gained experience in analyzing potential database errors such as data entry mistakes, 
+incorrect data types, faulty codes, illogical entries, missing and duplicate data. I also honed 
+skills in importing and exporting data (.csv files) using the LOAD DATA statement.
+
+Additionally, I focused on data cleaning, a critical step in ensuring productivity and data accuracy.
+I utilized SQL string functions like LEFT, RIGHT, and TRIM to enhance data quality and minimize errors.
+
+In a hands-on lab project, I leveraged the EC2 Compute service through the AWS Management Console. 
+This allowed me to perform various database operations including database and table creation/dropping,
+altering table structures with ALTER, and executing SQL commands for data manipulation (INSERT, UPDATE, DELETE). 
+This practical experience fortified my proficiency in database management.

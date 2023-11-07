@@ -35,4 +35,4 @@ Next, I delved into AWS Systems Manager, a powerful suite for centralized operat
 - Leverage Session Manager for secure instance access, reinforced with IAM policies and AWS CloudTrail logs.
 
 Join me in this exciting AWS journey! 🌐🔧
-![Alt text](../Sys_manager1.jpg)
+![Alt text](Sys_manager1.jpg)

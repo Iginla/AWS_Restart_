@@ -30,5 +30,5 @@
 - Confirmed café websites and analyzed CloudFormation resources.
 - Set up a Route 53 health check and created records.
 - Verified DNS resolution and failover functionality.
-![Alt text](../Route_53_records.jpg)
+![Alt text](Route_53_records.jpg)
 🚀 Excited to share my progress on this certification journey! Stay tuned for more updates. Connect with me for collaborative opportunities in the AWS ecosystem! 👥🌐

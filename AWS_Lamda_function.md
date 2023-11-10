@@ -19,6 +19,7 @@ In this guide, we'll walk through the steps to create an AWS Lambda function in 
 - Choose Python as the runtime.
 - In the "Function code" section, write or upload the Python code below:
     ![Alt text](amda_function.jpg)
+  
     ```python'''
     
 
@@ -104,7 +105,12 @@ In this guide, we'll walk through the steps to create an AWS Lambda function in 
 - Upload a sample text file to the S3 bucket.
 - Monitor the CloudWatch Logs for your Lambda function to check for any errors.
 - Check your email and SMS for the word count result.
-
+  
+### References
+-  Kyle Stahl  "5 Minutes to Create an AWS Lambda Function to Stay Updated About COVID-19 in Your Area" Towards Data Science  Mar 17, 2020.
+- AWS Lambda Documentation "https://docs.aws.amazon.com/lambda/"
+- Amazon S3 "https://docs.aws.amazon.com/s3/"
+- Rick Strahl "Getting Images into Markdown Documents and Weblog Posts with Markdown Monster" Mar 15, 2017.
 
 **Note:** Replace `<Your-SNS-Topic-ARN>` with the actual ARN of the SNS topic you created.
 
